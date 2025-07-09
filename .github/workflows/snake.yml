@@ -1,4 +1,3 @@
-<!-- workflow for snake-->
 name: Generate Snake
 
 on:
