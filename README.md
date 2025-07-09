@@ -68,14 +68,14 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/ThierryManao/ThierryManao/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </h2>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryManao&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThierryManao&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelySaina&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KelySaina&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
