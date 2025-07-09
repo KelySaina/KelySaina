@@ -1,85 +1,70 @@
+<!-- Futuristic Profile for KelySaina -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thierry+Chen+⚡+Futuristic+Fullstack+Dev;Building+UIs+with+Purpose;Designing+Tomorrow's+Interfaces&font=Fira%20Code&center=true&width=800&height=45&color=00FFEF&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+KelySaina;Fullstack+Developer+%7C+Cloud+Enthusiast;Building+Fast%2C+Clean%2C+Futuristic+Web+Apps;Powered+by+Linux%2C+Code%2C+and+Vision" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Art-Always%20Evolving-00FFFF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/UX%20Craft-Intentional-00FFAA?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Nuxt-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20PHP-yellowgreen?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20PostgreSQL-lightgrey?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Cloud-Supabase%20%7C%20Vercel%20%7C%20AWS%20%7C%20GCP-orange?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Linux%20%7C%20DevOps-Ubuntu%20%7C%20Shell%20%7C%20Docker-black?style=for-the-badge&logo=linux" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td align="center" colspan="3"><strong>Frontend</strong></td>
+    <td align="center" colspan="3"><strong>Backend</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></td>
 
-### 🧪 **Languages**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></td>
+  </tr>
 
----
+  <tr>
+    <td align="center" colspan="3"><strong>Databases</strong></td>
+    <td align="center" colspan="3"><strong>Cloud & DevOps</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" title="Supabase" /></td>
 
-### 🖥️ **Frontend**
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
----
-
-### 🧠 **Backend**
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
----
-
-### 🧪 **Testing & Tools**
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/Mockito-Color?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-
----
-
-### 🗃️ **Databases**
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /></td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ **DevOps & Deployment**
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
----
-
-### 🎨 **Design & Creative**
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</h2>
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelySaina&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KelySaina&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KelySaina&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelySaina&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧬 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=footer&text=Keep%20Building%20⚡&fontColor=black&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=footer&text=Let's%20Build%20The%20Future%20🌌&fontColor=black&fontSize=30" />
 </p>
