@@ -72,7 +72,7 @@
 ## 🧬 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/main/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
