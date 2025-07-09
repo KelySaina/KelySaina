@@ -30,34 +30,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript" />
 </div>
 
-### 🔧 Backend
+<div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; max-width: 900px; margin: auto;">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" title="PHP" />
+  <div style="text-align: center; min-width: 180px;">
+    <h3>🔧 Backend</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" title="PHP" />
+    </div>
+  </div>
+
+  <div style="text-align: center; min-width: 180px;">
+    <h3>🗃️ Databases</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" />
+      <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="60" title="Supabase" />
+    </div>
+  </div>
+
+  <div style="text-align: center; min-width: 180px;">
+    <h3>☁️ Cloud & DevOps</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" title="GCP" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" title="Vercel" />
+    </div>
+  </div>
+
 </div>
 
-### 🗃️ Databases
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" />
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="60" title="Supabase" />
-</div>
 
-### ☁️ Cloud & DevOps
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogohistory.net%2Fwp-content%2Fuploads%2F2023%2F06%2FAWS-Emblem.png&f=1&nofb=1&ipt=8badfddb80bbc6efd45c7eb68ca35d89f4fe4d789bc05c360c80277ecb30748f" width="60" title="GCP" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uEi-BYi_M-Rnv9abB82xqwHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=4afbf0e0965141e49dfc39e20923502eb440ab20f5030120d195afd42744dca6" width="60" title="Vercel" />
-</div>
-
-</div>
 
 ---
 
