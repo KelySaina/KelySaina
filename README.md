@@ -1,8 +1,10 @@
 <!-- Futuristic Profile for KelySaina -->
 
 <h1 align="center">
-  👋 Hey, I'm <strong>KelySaina</strong> — Fullstack Developer 🚀
+  👋 Hey, I'm <strong>KelySaina</strong><br />
+  — Fullstack Developer & aspirant DevOps engineer 🚀✨
 </h1>
+
 <h3 align="center">Crafting web experiences with React, Vue, Node, Python, and the cloud ☁️</h3>
 
 <p align="center">
@@ -79,5 +81,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=footer&text=Let's%20Build%20The%20Future%20🌌&fontColor=black&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=footer&text=The%20Best%20Way%20To%20Predict%20The%20Future%20Is%20To%20Create%20It.&fontColor=black&fontSize=28" />
 </p>
