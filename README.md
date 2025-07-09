@@ -1,8 +1,9 @@
 <!-- Futuristic Profile for KelySaina -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+KelySaina;Fullstack+Developer+%7C+Cloud+Enthusiast;Building+Fast%2C+Clean%2C+Futuristic+Web+Apps;Powered+by+Linux%2C+Code%2C+and+Vision" alt="Typing SVG" />
+  👋 Hey, I'm <strong>KelySaina</strong> — Fullstack Developer 🚀
 </h1>
+<h3 align="center">Crafting web experiences with React, Vue, Node, Python, and the cloud ☁️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Nuxt-blue?style=for-the-badge&logo=react" />
@@ -14,37 +15,48 @@
 
 ---
 
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" colspan="3"><strong>Frontend</strong></td>
-    <td align="center" colspan="3"><strong>Backend</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></td>
+<div align="center">
 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></td>
-  </tr>
+### 🖥️ Frontend
 
-  <tr>
-    <td align="center" colspan="3"><strong>Databases</strong></td>
-    <td align="center" colspan="3"><strong>Cloud & DevOps</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" title="Supabase" /></td>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" title="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="60" title="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript" />
+</div>
 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /></td>
-  </tr>
-</table>
+### 🔧 Backend
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" title="PHP" />
+</div>
+
+### 🗃️ Databases
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" />
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="60" title="Supabase" />
+</div>
+
+### ☁️ Cloud & DevOps
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" title="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" title="Vercel" />
+</div>
+
+</div>
 
 ---
 
