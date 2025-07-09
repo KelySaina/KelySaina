@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" title="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" title="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" title="Vercel" />
 </div>
 
@@ -72,7 +72,7 @@
 ## 🧬 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
