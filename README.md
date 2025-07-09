@@ -1,64 +1,85 @@
-# 👋 Hi, I'm Thierry Chen
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thierry+Chen+⚡+Futuristic+Fullstack+Dev;Building+UIs+with+Purpose;Designing+Tomorrow's+Interfaces&font=Fira%20Code&center=true&width=800&height=45&color=00FFEF&vCenter=true&pause=1000" alt="Typing SVG" />
+</h1>
 
-### 🚀 Full-Stack Developer & Interface Designer  
-**📍 Based in Montreal** — architecting the next generation of intuitive, secure SaaS and consumer apps
-
----
-
-## 🧠 Specialties & Tech Profile
-| Domain              | Skills & Technologies |
-|---------------------|------------------------|
-| **Backend**         | Java ● Spring Boot ● Azure ● SQL ● Go |
-| **Frontend**        | Angular ● React ● Vue ● Tailwind CSS |
-| **DevOps & Tools**  | Docker ● Ubuntu ● Azure DevOps |
-| **Testing & QA**    | Mockito ● Postman ● Sonar |
-| **Design & Media**  | Figma ● Photoshop ● Unity |
-| **Data & NoSQL**    | Python ● MongoDB |
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Art-Always%20Evolving-00FFFF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/UX%20Craft-Intentional-00FFAA?style=for-the-badge&logo=figma&logoColor=black" />
+</p>
 
 ---
 
-## 💼 Professional Journey
-### **Software Developer**, Zimmer Biomet (Montreal)  
-Engineered a personalized medical portal, enhancing inter-system data flow and user satisfaction. — *Spring, Angular, Azure, SQL, Mockito* :contentReference[oaicite:1]{index=1}
+## 🧰 Tech Stack
 
-### **Telemetry Intern**, Ericsson (Montreal)  
-Boosted API test coverage and streamlined telemetry system regressions. — *Spring, Mockito, Postman, Ubuntu* :contentReference[oaicite:2]{index=2}
+<div align="center">
 
-### **Automation Intern**, Fiera Capital (Montreal)  
-Crafted robust automation scripts to verify data pipelines. — *Python, SQL* :contentReference[oaicite:3]{index=3}
-
-### **Full-Stack Intern**, Airbus (Mirabel)  
-Delivered a UI tool for airplane discrepancy tracking. — *React, SQL, PHP* :contentReference[oaicite:4]{index=4}
+### 🧪 **Languages**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ---
 
-## 🎯 What I’m Doing Now
-- Studying **Azure cloud architecture**
-- Experimenting with **AI-driven design**: Stable Diffusion, Midjourney
-- Developing a **Unity-based mobile game**
-- Planning immersive personal tech-focused **vlogs** :contentReference[oaicite:5]{index=5}
+### 🖥️ **Frontend**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 ---
 
-## 🔮 Next Frontier
-Fusing **AI / ML** with full-stack expertise to build smart, autonomous interfaces and adaptive web ecosystems.
+### 🧠 **Backend**
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 ---
 
-## 🎨 Design & Web Strategy
-Need a cutting-edge website? I blend UX intuition and responsive design with scalable architecture—Let’s elevate your brand online.
-
-<details>
-  <summary>📬 Reach Me</summary>
-  - Email: tianming.chen0424@gmail.com  
-  - LinkedIn · GitHub: [links available on profile]
-</details>
+### 🧪 **Testing & Tools**
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Mockito-Color?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 
 ---
 
-## ⚙️ Tech Stack
-React ● Next.js ● Tailwind ● Vercel ● Spring ● Angular ● Azure ● Docker ● Unity
+### 🗃️ **Databases**
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ---
 
-**Powered by imagination. Designed for the future. Let’s build tomorrow—today.** 💡
+### 🛠️ **DevOps & Deployment**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+---
+
+### 🎨 **Design & Creative**
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/ThierryManao/ThierryManao/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</h2>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryManao&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThierryManao&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=footer&text=Keep%20Building%20⚡&fontColor=black&fontSize=35" />
+</p>
