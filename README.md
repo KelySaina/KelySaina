@@ -2,7 +2,7 @@
 
 <h1 align="center">
   👋 Hey, I'm <strong>KelySaina</strong><br />
-  — Fullstack Developer & aspirant DevOps engineer 🚀✨
+  — Fullstack Developer & aspirant DevOps engineer
 </h1>
 
 <h3 align="center">Crafting web experiences with React, Vue, Node, Python, and the cloud ☁️</h3>
@@ -80,16 +80,17 @@
 
 ---
 
-  <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: auto; line-height: 1.4;">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: auto; line-height: 1.4;">
 
   <h2 style="color:#00ffff; font-weight: 700; margin-bottom: 10px;">💡 The Best Way to Predict the Future</h2>
   
-  <p style="font-size: 1.3rem; font-style: italic; color: #222; margin-bottom: 5px;">
-    is to <strong style="color:#0ff;">create it.</strong>
-  </p>
+  <h1 style="font-size: 20px; font-style: italic; color: #222; margin-bottom: 5px;">
+    is to <strong style="color:#0ff;">create it.</strong> 🚀✨
+  </h1>
   
   <p style="font-size: 1rem; color: #555; font-weight: 600;">
     — Abraham Lincoln
   </p>
 
 </div>
+
