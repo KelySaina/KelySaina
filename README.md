@@ -92,5 +92,10 @@
     — Abraham Lincoln
   </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KelySaina/KelySaina/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 </div>
 
