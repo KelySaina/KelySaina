@@ -73,15 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelySaina&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelySaina&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: auto; line-height: 1.4;">
 
   <h2 style="color:#00ffff; font-weight: 700; margin-bottom: 10px;">💡 The Best Way to Predict the Future</h2>
