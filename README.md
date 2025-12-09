@@ -75,11 +75,8 @@
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: auto; line-height: 1.4;">
 
-  <h2 style="color:#00ffff; font-weight: 700; margin-bottom: 10px;">💡 The Best Way to Predict the Future</h2>
-  
-  <h1 style="font-size: 20px; font-style: italic; color: #222; margin-bottom: 5px;">
-    is to <strong style="color:#0ff;">create it.</strong> 🚀✨
-  </h1>
+  <h2 style="color:#00ffff; font-weight: 700; margin-bottom: 10px;">💡 The Best Way to Predict the Future is to <strong style="color:#0ff;">create it.</strong> 🚀✨</h2>
+
   
   <p style="font-size: 1rem; color: #555; font-weight: 600;">
     — Abraham Lincoln
